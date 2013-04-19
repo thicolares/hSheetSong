@@ -54,6 +54,11 @@ Sheet songs (song lyrics with chords attached) are published in a fixed structur
 * album 44%
 * dificulty 44%
 
-***properties VERY common on all examples, but which depends on the sheet song editor free will***
+***properties VERY common on all examples, but which depends on the sheet song user contributor free will***
 
-* tabs* key* chorus* bridge* tuning* capo
+* tabs
+* key
+* chorus
+* bridge
+* tuning
+* capo
