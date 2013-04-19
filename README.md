@@ -21,6 +21,6 @@ I'm aware of some existent formats, like [Chordpro](http://tenbyten.com/software
 
 Finaly, I'm studying for my master's degree (interested in user experience, usability and user-centedered software development studies). It will be great to work with something like that.
 
-#### Reviews is encouraged :)
+#### Reviews are encouraged :)
 
 Reviews and contributions are welcome. I'm writing an example to support my proposal. Critiques are also welcome! I'm not afraid of being wrong, this is Science, isn't? :)
