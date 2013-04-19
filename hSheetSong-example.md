@@ -1,46 +1,59 @@
-Song lyrics with chords combined (sheet songs) are often published in a pr.. without any semantics
-. This kind of
+### hSheetSong Example
 
 
+Sheet songs (song lyrics with chords attached) are published in a fixed structure and without any semantics (where there are, just the chords, and even then, without any pattern). As a consequence, it is impossible to predict how the text will fit today different screen sizes intelligently, avoiding blanks and scrollbar (regarding smartphones, notebooks, tablets and even TVs).
 
-Sheet songs (song lyrics with chords attached) are published in a fixed structure and without any semantics (where there are, just the chords, and even then, without any pattern).
-
-As a consequence, it is impossible to predict how the text will fit today different screen sizes intelligently, avoiding blanks and scrollbar (regarding smartphones, notebooks, tablets and even TVs).
-
-
-Publication of audio speeches on blogs is often called "podcasting". In essence though, it is simply audio speech publishing. Quotes of audio files are beginning to appear, and publishers are putting up files with links to other audio files they've quoted from. Most audio appears to often have the same base elements as video and photos, with the exception of quotes.
+##### Some sheet song sites
 
 
+[Ultimate Guitar](http://www.ultimate-guitar.com/) (~300k docs)
 
-http://tabs.ultimate-guitar.com/u/u2/a_man_and_a_woman_crd.htm
- are often published in a pretext and preformed without any semantics.
+* title, artist, dificulty, chords, verses, album
 
-texts are published frequently in pre formatted structure and without any semantics. 
+[CifraClub](http://www.cifraclub.com.br/) (~300k docs)
 
-Each song verse is quote preced by a line with chords notations. 
+* title, artist, chords, verses
+
+[e-Chords](http://www.e-chords.com)
+
+* title, artist, dificulty, chords, verses, album
+
+[Chordie](http://www.chordie.com)  (~10k docs)
+
+* title, artist, dificulty, chords, verses
+
+[XGuitar](http://www.xguitar.com/) (~10k docs)
+
+* title, artist, chords, verses, album
+
+[Cifras](http://www.cifras.com.br/)
+
+* title, artist, chords, verses, album
+
+[PegaCifras](http://pegacifras.uol.com.br/) (~10k docs)
+
+* title, artist, chords, verses
+
+[tabizer](http://tabizer.com/en/)
+
+* title, artist, chords, verses
+
+[Ukulele-tabs](http://www.ukulele-tabs.com/)
+
+* title, artist, dificulty, chords, verses, album
 
 
-There ares evidences about the most common song structure of popular music. 
-http://en.wikipedia.org/wiki/Song_structure_(popular_music)
-http://en.wikipedia.org/wiki/Musical_form
-http://en.wikipedia.org/wiki/Strophic_form
+#### Analysis of sheet song sites
 
---
+***9 examples***
 
-Sheet songs (lyrics + chords) are published in a fixed structure and without any semantics (where there are, just the chords, and even then, without any pattern).
+* title 100%	
+* artist 100%
+* chords 100%
+* verses 100%
+* album 44%
+* dificulty 44%
 
-As a consequence, it is impossible to predict how the text will fit today different screen sizes intelligently, avoiding blanks and scrollbar (regarding smartphones, notebooks, tablets and even TVs).
+***properties VERY common on all examples, but which depends on the sheet song editor free will***
 
-I want to propose a microformat to easily structure chords, verses, choruses, considering concepts such as prosody, common popular songs scrutcures etc. So will be easy to 
- In the near future, I can even build a online editor etc.
-
-A user who plays an instrument while reading the song sheet, preferably uses no hands. At most, one. Autoscroll tools are not enought for me, I never use. Moreover, it turns a tragedy on the phone or tablet.
-
-I'm aware of existent formats, like Chordpro (http://onsongapp.com/manual/index.php?ID=167). And projects like Chordii (http://www.vromans.org/johan/projects/Chordii/) or OnSong (http://onsongapp.com/). But they seems not disruptive metaphor of what already exists: paper printed sheet songs with fixed structure.
-
-Finaly, I'm studying for my master's degree (interested in UX, usability and user-centedered software development studies). It will be great to work with something like that.
-
-Reviews and contributions are welcome. I'm writing an example to support my proposal. Critiques are also welcome, not afraid of being wrong, so is science. :)
-
-
-
+* tabs* key* chorus* bridge* tuning* capo
