@@ -1,5 +1,8 @@
 *Sheet songs microformat proposal sent to  microformats-new@microformats.org at Sun 07, 2013*
 
+#### See the example
+* **[hSheetSong example](hSheetSong-example.md)**
+
 #### Problem
 
 Sheet songs (song lyrics with chords attached) are published in a fixed structure and without any semantics (where there are, just the chords, and even then, without any pattern).
